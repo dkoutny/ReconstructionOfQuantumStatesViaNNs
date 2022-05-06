@@ -1,6 +1,6 @@
 # ReconstructionOfQuantumStatesViaNNs
 
-This repository provides data and supplementary material to the paper Deep learning of polarization transfer in liquid crystals with application to quantum state preparation, by Dominik Koutný, Libor Motka, Zdeněk Hradil, Jaroslav Řeháček and L. L. Sánchez-Soto.
+This repository provides data and supplementary material to the paper Neural-network quantum state tomography, by Dominik Koutný, Libor Motka, Zdeněk Hradil, Jaroslav Řeháček and L. L. Sánchez-Soto.
 
 
 Let us present here results and codes for reconstructiong the quantum states via neural networks (NN).
